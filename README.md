@@ -1,15 +1,17 @@
-# toko-elektronik
+# Absensi
 
-Aplikasi Toko Elektronik dengan PHP Native, Admin LTE dan MySQL.
+Aplikasi Absensi X100-C Solution dengan PHP Native, Admin LTE dan MySQL.
+
+## Jangan Lupa untuk Mengganti IP Sesuai dengan Alatnya
 
 ## Login
 
 ### Admin
 
--   username : taufik
--   password : taufik123
+-   username : admin
+-   password : 1
 
-### Staff
+### Student
 
--   username : fauzan
--   password : fauzan123
+-   username : natasya
+-   password : 2
